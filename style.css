@@ -6,3 +6,8 @@ body {
 p{
   font-weight: bolder;
 }
+
+h2 {
+  color: red;
+}
+
