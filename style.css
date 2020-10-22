@@ -5,6 +5,15 @@ body {
 
 p{
   font-weight: bolder;
+<<<<<<< HEAD
   font-size: xx-large;
   
 }
+=======
+}
+
+h2 {
+  color: red;
+}
+
+>>>>>>> a5433d70bff86ce387b6403877608753a250b396
